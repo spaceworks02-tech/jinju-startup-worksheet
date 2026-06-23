@@ -1,0 +1,12 @@
+{
+  "name": "jinju-startup-worksheet",
+  "version": "1.0.0",
+  "description": "진주보건대 창업동아리 워크시트 앱",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
